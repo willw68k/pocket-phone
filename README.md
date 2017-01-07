@@ -1,5 +1,6 @@
 # pocket-phone
 Connect a Fona808 to PocketChip
+
 Currently this software only support dialing out, no recieved calls or sms...
 yet.  
 
